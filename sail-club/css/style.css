@@ -1,0 +1,121 @@
+body {
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 24px;
+    color: #163152;
+
+    background-color: #FDFDFF;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 44px;
+    line-height: 60px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+
+    text-decoration: underline;
+    text-decoration-color: #00C6BD;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 15px;
+    text-underline-position: under;
+}
+
+.main-title {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    color: #163152;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.contacts-list-item {
+    line-height: 22px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.main-header-nav-item {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+.event-date {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.news p {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.news figcaption {
+    font-size: 16px;
+    line-height: 19px;
+    color: #8693A4;
+    align-items: center;
+}
+
+.news h3 {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    align-items: center;
+}
+
+.participating-teams {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.news-list {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.news blockquote {
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+.author-of-article p {
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: bold;
+    align-items: center;
+}
+
+.author-of-article span {
+    font-weight: bold;
+    color: #8693A4;
+}
+
+.copyright {
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.footer-title {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
